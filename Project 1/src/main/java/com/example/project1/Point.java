@@ -6,7 +6,6 @@ public class Point {
     private double x;
     private double y;
 
-
     public String toString() {
         return "Point{" +
                 "x=" + x +
